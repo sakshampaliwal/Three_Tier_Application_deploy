@@ -18,9 +18,6 @@ The `Application-Code` directory contains the source code for the Three-Tier Web
 ## Kubernetes Manifests Files
 The `Kubernetes-Manifests-Files` directory holds Kubernetes manifests for deploying your application on AWS EKS. Understand and customize these files to suit your project needs.
 
-## Getting Started
-To get started with this project, refer to our [comprehensive guide](https://amanpathakdevops.medium.com/advanced-end-to-end-devsecops-kubernetes-three-tier-project-using-aws-eks-argocd-prometheus-fbbfdb956d1a) that walks you through IAM user setup, infrastructure provisioning, CI/CD pipeline configuration, EKS cluster creation, and more.
-
 ### Step 1: IAM Configuration
 - Create a user `eks-admin` with `AdministratorAccess`.
 - Generate Security Credentials: Access Key and Secret Access Key.
